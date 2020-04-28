@@ -1,0 +1,2 @@
+name ="Locapegu"
+print(name)
